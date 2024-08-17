@@ -17,10 +17,10 @@ author_profile: true
 **Jiaqi Guan**, Xingang Peng,  Peiqi Jiang, Yunan Luo, Jian Peng, Jianzhu Ma.\
 In 37th Conference on Neural Information Processing Systems (NeurIPS) 2023. **Spotlight**.
 2. [**DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design**](https://openreview.net/forum?id=9qy9DizMlr).\
-**Jiaqi Guan**$^\*$, Xiangxin Zhou$^\*$, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, Quanquan Gu.
+**Jiaqi Guan**$^\*$, Xiangxin Zhou$^\*$, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, Quanquan Gu.\
 In 30th International Conference on Machine Learning (ICML) 2023.
 3. [**MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**](https://arxiv.org/abs/2305.07508).\
-Xingang Peng, **Jiaqi Guan**, Qiang Liu, Jianzhu Ma.
+Xingang Peng, **Jiaqi Guan**, Qiang Liu, Jianzhu Ma.\
 In 30th International Conference on Machine Learning (ICML) 2023.
 4. [**3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**](https://openreview.net/forum?id=kJqXEPXMsE0).\
 **Jiaqi Guan**$^\*$, Wesley Wei Qian$^\*$, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma.\
