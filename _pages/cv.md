@@ -13,17 +13,24 @@ redirect_from:
 
 Education
 ------
+* Ph.D. in University of Illinois Urbana-Champaign, IL, USA, 2019 - 2024
 * B.S. in Tsinghua University, Beijing, China, 2014 - 2018
-* Ph.D. in University of Illinois Urbana-Champaign, IL, USA, 2019 - 2024 (expected)
 
 Work experience
 ------
+* Jun 2024 - Now:  ByteDance AI4Science, Seattle, USA.
+  * Research Scientist. 
+
+* May 2023 - Aug 2023: ByteDance AI4Science, San Jose, USA.
+  * Research Intern, supervised by Yuwei Yang and Quanquan Gu.
+  * Explored optimization-based 3D molecular generative models.
+
 * May 2022 - Oct 2022: ByteDance AI Lab, Remote.
   * Research Intern, supervised by Yuwei Yang and Yu Bao.
   * Developed a new diffusion model with decomposed priors for structure-based drug design.
   * Presented this work in a ICML 2023 submission.
 
-* May 2020 - Aug 2020: Tencent AI Lab, Seattle, USA
+* May 2020 - Aug 2020: Tencent AI Lab, Seattle, USA.
   * Research Intern, supervised by Liwei Wang and Jianqiao Zhao.
   * Built a large-scale Chinese dialogue generation pretrain framework. 
   * Focused on dialogue generation with reinforcement learning.
@@ -49,4 +56,5 @@ Skills
 
 Services
 ------
-* Reviewer of Conferences: ICML, NeurIPS, CVPR
+* Reviewer of Conferences: ICML, ICLR, NeurIPS, CVPR, AAAI
+* Reviewer of Journals: Nature Computational Science

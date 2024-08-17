@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiaqi Guan's Homepage"
 title_separator          : "-"
 name                     : &name "Jiaqi Guan"
-description              : &description "CS Ph.D. Candidate at UIUC"
+description              : &description "Research Scientist at ByteDance"
 url                      : https://guanjq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guanjq.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaqi Guan"
   avatar           : "self.jpeg"
-  bio              : "CS Ph.D. Candidate at UIUC"
+  bio              : "Research Scientist at ByteDance"
   location         : "Champaign, Illinois"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

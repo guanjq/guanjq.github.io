@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student in the Department of Computer Science, [University of Illinois Urbana-Champaign](https://cs.illinois.edu/), 
-advised by Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/). I graduated from 
-Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/en/) with a bachelor degree of Engineering in 2018. 
+I'm a Research Scientist in the AI4Science team at [ByteDance](https://www.bytedance.com/en/), Seattle. I received my Ph.D. in Computer Science from [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) in May 2024, where I was advised by Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/) and Prof. [Jianzhu Ma](https://majianzhu.com/). I obtained my B.E. in Automation from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2018. 
 
 Previously, I was a short-term research scholar in [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), 
 advised by Prof. [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), from Sept. 2018 to Feb. 2019. 
