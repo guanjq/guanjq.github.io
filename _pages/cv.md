@@ -9,52 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-[[PDF]](../files/CV.pdf)
+[Download PDF CV](../files/CV.pdf)
+
+Research Interests
+------
+* Foundation models, generative AI, and multimodal machine learning
+* Diffusion models, Transformers, and large-scale model training
+* AI for science, biomolecular structure prediction and design
+
+Experience
+------
+* **ByteDance Seed**, Bellevue, WA, USA  
+  *Senior Research Scientist*, Jun 2024 – Present  
+  Work on model architecture and large-scale training for Protenix and Protenix-v1, including billion-parameter transformer and diffusion models trained on hundreds of GPUs. Also built PXDesign, a generative modeling system for protein binder design.
+
+* **University of Illinois Urbana-Champaign**, Urbana, IL, USA  
+  *Ph.D. Research Assistant, Department of Computer Science*, Aug 2019 – May 2024  
+  Developed generative modeling methods for structured 3D data, including diffusion and autoregressive frameworks for molecular design and multimodal generation.
+
+* **ByteDance AI Lab / AI4Science**, San Jose, CA, USA  
+  *Research Intern*, May 2022 – Oct 2022; May 2023 – Aug 2023  
+  Worked on diffusion-based generative modeling for structure-based drug design, including DecompDiff (*ICML 2023*).
+
+* **Tencent AI Lab**, Seattle, WA, USA  
+  *NLP Research Intern*, May 2020 – Aug 2020  
+  Worked on large-scale language model pretraining and dialogue generation, including reinforcement learning and self-play for improving long-horizon conversational behavior.
+
+* **Carnegie Mellon University, Robotics Institute**, Pittsburgh, PA, USA  
+  *Research Intern*, Sep 2018 – Jan 2019  
+  Worked on generative modeling for structured video forecasting and trajectory prediction, resulting in a *CVPR Oral*.
 
 Education
 ------
-* Ph.D. in University of Illinois Urbana-Champaign, IL, USA, 2019 - 2024
-* B.S. in Tsinghua University, Beijing, China, 2014 - 2018
+* **University of Illinois Urbana-Champaign**, Urbana, IL, USA  
+  Ph.D. in Computer Science, 2019 – 2024  
+  Advisor: Jian Peng. Co-advisor: Jianzhu Ma.
 
-Work experience
+* **Tsinghua University**, Beijing, China  
+  B.E. in Automation, 2014 – 2018
+
+Selected Publications
 ------
-* Jun 2024 - Now:  ByteDance AI4Science, Seattle, USA.
-  * Research Scientist. 
+* **Unified Modeling of 3D Molecular Generation via Atomic Interactions with PocketXMol**. *Cell*, 2026.
+* **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion**. *NeurIPS Spotlight*, 2023.
+* **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design**. *ICML*, 2023.
+* **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**. *ICLR*, 2023.
+* **Energy-Inspired Molecular Conformation Optimization**. *ICLR*, 2022.
+* **Generative Hybrid Representations for Activity Forecasting with No-Regret Learning**. *CVPR Oral*, 2020.
 
-* May 2023 - Aug 2023: ByteDance AI4Science, San Jose, USA.
-  * Research Intern, supervised by Yuwei Yang and Quanquan Gu.
-  * Explored optimization-based 3D molecular generative models.
+For a fuller list, see [Publications](../publications/).
 
-* May 2022 - Oct 2022: ByteDance AI Lab, Remote.
-  * Research Intern, supervised by Yuwei Yang and Yu Bao.
-  * Developed a new diffusion model with decomposed priors for structure-based drug design.
-  * Presented this work in a ICML 2023 submission.
-
-* May 2020 - Aug 2020: Tencent AI Lab, Seattle, USA.
-  * Research Intern, supervised by Liwei Wang and Jianqiao Zhao.
-  * Built a large-scale Chinese dialogue generation pretrain framework. 
-  * Focused on dialogue generation with reinforcement learning.
-
-Publications
+Technical Skills
 ------
-  See the full list in [Publications](publications.md)
-
-
-Awards & Honors
-------
-* 2021 MMLI Retreat Poster Session Winner
-* 2018 Excellent Graduate of Department of Automation (25 of 150+)
-* 2017 Honorable Mention, Mathematical Contest in Modeling (MCM), COMAP
-* 2015, 2016 Tsinghua Alumni Scholarship (For excellent academic performance, top 10%)
-* 2015 Tsinghua Scholarship (For excellent performance in social activities)
-* 2015 Tsinghua University Outstanding Student Leader
-
-Skills
-------
-* Programming Languages: Python, Matlab, C/C++, C# 
-* Framework & Tools: PyTorch, Tensorflow, Caffe, Git, ROS, OpenCV
-
-Services
-------
-* Reviewer of Conferences: ICML, ICLR, NeurIPS, CVPR, AAAI
-* Reviewer of Journals: Nature Computational Science
+* **Large-Scale ML:** distributed training, mixed-precision training, activation checkpointing, memory optimization, custom kernels, inference optimization
+* **Modeling:** foundation models, Transformers, diffusion models, multimodal modeling, structured generation, geometric deep learning, reinforcement learning
+* **Programming:** Python, PyTorch, C/C++, Linux, NumPy/SciPy

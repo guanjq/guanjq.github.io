@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Scientist in the AI4Science team at [ByteDance](https://www.bytedance.com/en/), Seattle. I received my Ph.D. in Computer Science from [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) in May 2024, where I was advised by Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/) and Prof. [Jianzhu Ma](https://majianzhu.com/). I obtained my B.E. in Automation from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2018. 
+I am a Senior Research Scientist at [ByteDance Seed](https://seed.bytedance.com/en/), where I work on **foundation models, generative modeling, and large-scale machine learning** for biomolecular and scientific problems. My recent work focuses on developing and training transformer and diffusion models for structured generation, including **[Protenix / Protenix-v1](https://github.com/bytedance/Protenix)**, open biomolecular foundation models, and **[PXDesign](https://github.com/bytedance/PXDesign)**, a protein binder design system spanning generation and ranking.
 
-Previously, I was a short-term research scholar in [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), 
-advised by Prof. [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), from Sept. 2018 to Feb. 2019. 
-Before that, I worked in UIUC as a summer intern in 2017, advised by Prof. Jian Peng. 
-In Tsinghua University, I have ever worked with Prof. [Xuegong Zhang](http://www.cssb.tsinghua.edu.cn/en/core-staff/item/142-2015-10-22-15-22-55) 
-since May 2017 as a research assistant. 
+I received my Ph.D. in Computer Science from [the University of Illinois Urbana-Champaign](https://cs.illinois.edu/) in 2024, advised by Prof. [Jian Peng](https://jianpeng.web.engr.illinois.edu/) and Prof. [Jianzhu Ma](https://majianzhu.com/). My research spans **geometric deep learning and multimodal generative modeling** for structure-based drug design. Before joining ByteDance full time, I interned at ByteDance AI Lab and Tencent AI Lab, and was a short-term research scholar at the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Kris Kitani](http://www.cs.cmu.edu/~kkitani/). I earned my B.E. in Automation from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2018, where I worked with Prof. [Xuegong Zhang](http://www.cssb.tsinghua.edu.cn/en/core-staff/item/142-2015-10-22-15-22-55).
 
-My research focuses on deep learning and its applications in computational biology / chemistry. 
-Specifically, my research interests lie in the intersection of geometric machine learning, generative modeling, and drug / macro-biomolecule design. 
 
 [[Curriculum Vitae]](files/CV.pdf)
