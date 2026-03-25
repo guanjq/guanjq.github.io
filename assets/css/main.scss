@@ -39,3 +39,178 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.pub-section {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pub-entry {
+  margin-bottom: 1rem;
+}
+
+.pub-title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.96rem;
+  font-weight: 600;
+  line-height: 1.22;
+  margin-bottom: 0.10rem;
+  letter-spacing: -0.015em;
+}
+
+.pub-title a {
+  text-decoration: none;
+  color: #2f6f98;   /* 保留一点蓝，但比默认链接色更稳 */
+}
+
+.pub-title a:hover {
+  text-decoration: underline;
+}
+
+.pub-authors {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.32;
+  color: #5a5a5a;
+  margin-bottom: 0.02rem;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+}
+
+.pub-authors strong {
+  font-weight: 600;
+  color: #4a4a4a;
+}
+
+.pub-authors sup {
+  font-size: 0.68em;
+  line-height: 0;
+  position: relative;
+  top: -0.18em;
+}
+
+.pub-meta {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.22;
+  font-weight: 480;
+}
+
+.pub-venue {
+  font-style: normal;   /* 去掉 italic，改靠字重和颜色突出 */
+  font-weight: 600;
+  color: #2f2f2f;
+  letter-spacing: -0.01em;
+}
+
+.pub-note {
+  display: inline-block;
+  margin-left: 0.42rem;
+  padding: 0.03rem 0.30rem;
+  border: 1px solid #cfcfcf;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  color: #666;
+  vertical-align: middle;
+}
+
+.pub-equal-note {
+  margin-top: 0.2rem;
+  margin-bottom: 1.6rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.pub-equal-note sup {
+  font-size: 0.72em;
+}
+
+.page__content a,
+.page__content a:visited,
+.archive a,
+.archive a:visited {
+  color: #2f6f98;
+  text-decoration: none;
+}
+
+.page__content a:hover,
+.page__content a:focus,
+.archive a:hover,
+.archive a:focus {
+  color: #2f6f98;
+  text-decoration: underline;
+}
+
+.cv-download {
+  margin-top: 0.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.cv-download a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.cv-download a:hover {
+  text-decoration: underline;
+}
+
+.cv-list {
+  margin: 0.35rem 0 1.4rem 0;
+  padding-left: 1.4rem;
+}
+
+.cv-item {
+  margin-bottom: 1.1rem;
+}
+
+.cv-header,
+.cv-subheader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.7rem;
+}
+
+.cv-org {
+  font-weight: 700;
+}
+
+.cv-location {
+  color: #666;
+}
+
+.cv-role {
+  font-style: italic;
+  color: #444;
+}
+
+.cv-date {
+  color: #666;
+}
+
+.cv-desc {
+  margin-top: 0.10rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+.cv-plain-list {
+  margin: 0.35rem 0 1.4rem 0;
+  padding-left: 1.4rem;
+}
+
+.cv-plain-list li {
+  margin-bottom: 0.35rem;
+  line-height: 1.5;
+}
+
+/* 让 CV 页面的 h2 和列表间距更统一 */
+.page__content h2 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.55rem;
+}
